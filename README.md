@@ -13,7 +13,7 @@ A responsive and modern weather application built using **HTML**, **CSS**, and *
 
 ## 📸 Preview
 
-![App Preview](./screenshot.png)
+[App Preview](./screenshot.png)
 > Add your project screenshot as `screenshot.png` in the root folder.
 
 ---
