@@ -6,7 +6,7 @@ A responsive and modern weather application built using **HTML**, **CSS**, and *
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view the live app](https://your-username.github.io/weather-app/)  
+🌐 [Click here to view the live app](https://weather-app-nu-teal.vercel.app/)
 > Replace with your GitHub Pages URL after deployment.
 
 ---
