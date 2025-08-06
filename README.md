@@ -54,4 +54,4 @@ A responsive and modern weather application built using **HTML**, **CSS**, and *
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/fabvivek/weather-app.git
